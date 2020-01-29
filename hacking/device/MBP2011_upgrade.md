@@ -18,7 +18,7 @@
 ## <span id="netcard-upgrade">网卡升级</span>
 
 ## <span id="reference">引用</span>
-- [固态硬盘选购(知乎)]: https://www.zhihu.com/question/20369676 "固态硬盘选购(知乎)"
+- [固态硬盘选购(知乎)] [固态硬盘选购(知乎)](https://www.zhihu.com/question/20369676)
 - [MBP硬盘升级1](https://post.smzdm.com/p/422843/)
 - [MBP硬盘升级2](https://blog.csdn.net/chenbo163/article/details/50610694)
 - [MBP硬盘升级3](http://kuaibao.qq.com/s/20181022A0LW9Z00?refer=spider)
